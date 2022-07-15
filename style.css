@@ -67,7 +67,7 @@ img {
   mix-blend-mode: soft-light;
   height: 100%;
   object-fit: cover;
-  object-position: right center;
+  object-position: 90% center;
 }
 
 .card__content {
